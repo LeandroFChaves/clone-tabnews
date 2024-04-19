@@ -4,6 +4,10 @@ Projeto de estudo implementando um clone do https://www.tabnews.com.br para o ht
 
 Link para a página: https://devchaves.com.br
 
+# Banco de Dados
+
+PostgreSQL - https://neon.tech
+
 # Docker
 
 Rodar o docker em background:
